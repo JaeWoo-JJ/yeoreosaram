@@ -849,6 +849,10 @@ public class HiBoardController
       
       
    }
+
+   public String testMapper() {
+      return rr;
+   }
  
    
 }
